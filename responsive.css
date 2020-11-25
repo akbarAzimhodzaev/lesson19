@@ -1,1 +1,5 @@
-/* some styles */
+@media (max-width: 565px) {
+  body {
+    background: #000000;
+  }
+}
